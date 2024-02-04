@@ -16,10 +16,10 @@ const SkillsSection = () => {
 
             <div className="skill-subHeading">
               <p>
-              Hello, I'm Atul Kumar. I currently serve as a full-stack developer 
+              Hello, I'm Atul Kumar. I am currently serve as a full-stack developer 
               at Softeon, where I've honed my skills and expertise in a
                variety of technologies. With a solid foundation in 
-               Java ,JSP,Servlets ,Spring , Sprint Boot,REST APIs, 
+               Java ,JSP,Servlets ,Spring , Spring Boot,REST APIs, 
                I bring 2 years  of hands-on experience in creating 
                and optimizing applications. I am particularly adept at
                building Supply Chain Solutions to improve the Warehouse operations
